@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+.block {
+    background-color: azure;
+    border: 1px solid black;
+    text-align: center;
+    width: 100px;
+    height: 35px;
+  }  
+   .block:hover {
+   background-color: aqua;
+   width: 150px;
+   
+   }
+   .wrapper {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 30px;
+   border-radius: 10vb;
+   background-color: crimson;
+
+   }
+   .a {
+    padding-left:140px;
+    
+   }
+   .n {
+  padding-left: 75px;
+
+  }
+  
+  input:focus {
+   background-color: blue;
+  }
+  .j {
+    background-color: coral;
+   margin-left: 170px;
+  }
+  button:focus {
+    background-color: aqua ;
+  }
+  
+ 
+
+
+
+
+
+
+
